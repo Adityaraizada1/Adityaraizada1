@@ -1,31 +1,120 @@
-<h1 align="center">Hi 👋, I'm Aditya raizada</h1>
-<h3 align="center">A passionate Machine Learning engineer from india.</h3>
-
-- 🔭 I’m currently working on **The Guardian's**
-
-- 🌱 I’m currently learning **AIML**
-
-- 👯 I’m looking to collaborate on **The GoodRide's**
-
-- 🤝 I’m looking for help with **The Guardian's**
-
-- 💬 Ask me about **python, react and next.js**
-
-- 📫 How to reach me **adityaraizada59@gmail.com**
-
-- ⚡ Fun fact **I think I'm a wierdo.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raizadaaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raizadaaditya" height="30" width="40" /></a>
-<a href="https://instagram.com/adityaraizada_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityaraizada_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&duration=3000&color=6a11cb&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Aditya+Raizada...;Machine+Learning+Engineer;AI+Enthusiast;Enterperuner;Code.+Build.+Laugh.+Repeat!" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://linkedin.com/in/raizadaaditya" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:adityaraizada59@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://instagram.com/adityaraizada_" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://twitter.com/adityaraizada" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraizada1&show_icons=true&locale=en&layout=compact" alt="adityaraizada1" /></p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/images/devider.gif" width="80%" alt="Divider"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaraizada1&show_icons=true&locale=en" alt="adityaraizada1" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraizada1&" alt="adityaraizada1" /></p>
+## 👋 About Me
+
+Hello! I'm **Aditya Raizada**, a Machine Learning Engineer from India.  
+I build **AI systems that turn complex data into actionable insights**, with a focus on **fairness, scalability, and automation**.
+
+- 🔭 **Currently Building:** AI Security, Logistics AI, Salary Prediction AI  
+- 🌱 **Learning:** Advanced LLMs, MLOps pipelines, Generative AI  
+- 💡 **Vision:** Bridging real-world challenges with AI solutions  
+- 🤝 **Collaboration:** Open to innovative projects & open-source contributions  
+
+> 😆 **AI Joke:** Why did the AI break up with its dataset? Because it had too many outliers!  
+
+---
+
+## 🛠️ Tech Universe
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,sql,pytorch,tensorflow,scikit-learn,pandas,numpy,opencv,docker,kubernetes,aws,gcp,git,linux,flask,fastapi,html,css,js" />
+</p>
+
+**Languages & Frameworks:** Python, C++, SQL, HTML, CSS, JS  
+**ML & AI:** PyTorch, TensorFlow, Scikit-Learn, OpenCV  
+**Data & Visualization:** Pandas, Numpy, Matplotlib, Seaborn  
+**Cloud & Deployment:** Docker, Kubernetes, AWS, GCP, Flask, FastAPI  
+**Version Control & OS:** Git, Linux  
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/images/devider.gif" width="80%" alt="Divider"/>
+</p>
+
+---
+
+## 🌟 Projects Spotlight
+
+### 1️⃣ The Guardian's (AI Security)
+- AI-powered surveillance system for **real-time threat detection**  
+- **Tech:** Python, PyTorch, OpenCV, Flask  
+- **Impact:** Improved security decision-making by 40%  
+
+**Badges:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
+---
+
+### 2️⃣ The GoodRide's (Logistics AI)
+- Predictive analytics for **optimizing delivery routes & minimizing delays**  
+- **Tech:** TensorFlow, GCP, Docker  
+- **Impact:** Reduced delivery times by 25%  
+
+**Badges:**  
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+---
+
+### 3️⃣ Salary Prediction Model (HR AI)
+- Predicts **fair salaries** for candidates based on experience, skills & education  
+- **Tech:** Python, Scikit-Learn, SHAP, Matplotlib  
+- **Impact:** Fair salary recommendations across departments  
+
+**Badges:**  
+<img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/SHAP-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib"/>
+
+---
+
+### 4️⃣ Personal Website & Portfolio
+- Built a **fully interactive portfolio** with animated headers, project cards & skill sections  
+- **Tech:** HTML, CSS, JS, React (optional)  
+- **Impact:** Polished professional online presence  
+
+**Badges:**  
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript"/>
+
+---
+
+## 💡 Fun Facts & Personality
+
+- 🏃‍♂️ I run ML experiments till 3 AM  
+- 🎮 Gamer when debugging fails  
+- ☕ Fuel: Coffee + Infinite Loops  
+- 🤯 Favorite Quote: *"Code hard. Build smart. Laugh often."*  
+
+---
+
+## 🖌️ Designing the Future 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff416c,ff4b2b&height=210&section=header&text=Code.%20Build.%20Laugh.%20Repeat.&fontSize=50&animation=twinkling&fontColor=ffffff"/>
+</p>

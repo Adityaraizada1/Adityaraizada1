@@ -57,8 +57,6 @@ I build **AI systems that turn complex data into actionable insights**, with a f
 
 ## 🌟 Projects Spotlight
 
-## 🌟 Projects Spotlight
-
 <table align="center" width="100%" cellspacing="15">
   <tr>
     <td width="25%" valign="top" align="center" style="border:1px solid #ccc; padding:10px; border-radius:10px;">

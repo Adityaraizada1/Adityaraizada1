@@ -57,51 +57,52 @@ I build **AI systems that turn complex data into actionable insights**, with a f
 
 ## 🌟 Projects Spotlight
 
-### 1️⃣ The Guardian's (AI Security)
-- AI-powered surveillance system for **real-time threat detection**  
-- **Tech:** Python, PyTorch, OpenCV, Flask  
-- **Impact:** Improved security decision-making by 40%  
+## 🌟 Projects Spotlight
 
-**Badges:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
-
----
-
-### 2️⃣ The GoodRide's (Logistics AI)
-- Predictive analytics for **optimizing delivery routes & minimizing delays**  
-- **Tech:** TensorFlow, GCP, Docker  
-- **Impact:** Reduced delivery times by 25%  
-
-**Badges:**  
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
----
-
-### 3️⃣ Salary Prediction Model (HR AI)
-- Predicts **fair salaries** for candidates based on experience, skills & education  
-- **Tech:** Python, Scikit-Learn, SHAP, Matplotlib  
-- **Impact:** Fair salary recommendations across departments  
-
-**Badges:**  
-<img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/SHAP-ff69b4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib"/>
-
----
-
-### 4️⃣ Personal Website & Portfolio
-- Built a **fully interactive portfolio** with animated headers, project cards & skill sections  
-- **Tech:** HTML, CSS, JS, React (optional)  
-- **Impact:** Polished professional online presence  
-
-**Badges:**  
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript"/>
+<table align="center" width="100%" cellspacing="15">
+  <tr>
+    <td width="25%" valign="top" align="center" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
+      <h3>1️⃣ The Guardian's (AI Security)</h3>
+      <p>AI-powered surveillance system for <b>real-time threat detection</b>.<br>Impact: Improved security decision-making by 40%.</p>
+      <p>
+        <b>Tech:</b> Python, PyTorch, OpenCV, Flask<br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv" />
+      </p>
+    </td>
+    <td width="25%" valign="top" align="center" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
+      <h3>2️⃣ The GoodRide's (Logistics AI)</h3>
+      <p>Predictive analytics for <b>optimizing delivery routes & minimizing delays</b>.<br>Impact: Reduced delivery times by 25%.</p>
+      <p>
+        <b>Tech:</b> TensorFlow, GCP, Docker<br>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" />
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
+      </p>
+    </td>
+    <td width="25%" valign="top" align="center" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
+      <h3>3️⃣ Salary Prediction Model (HR AI)</h3>
+      <p>Predicts <b>fair salaries</b> for candidates based on experience, skills & education.<br>Impact: Fair salary recommendations across departments.</p>
+      <p>
+        <b>Tech:</b> Python, Scikit-Learn, SHAP, Matplotlib<br>
+        <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn" />
+        <img src="https://img.shields.io/badge/SHAP-ff69b4?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib" />
+      </p>
+    </td>
+    <td width="25%" valign="top" align="center" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
+      <h3>4️⃣ Personal Website & Portfolio</h3>
+      <p>Fully interactive portfolio with animated headers, project cards & skill sections.<br>Impact: Polished professional online presence.</p>
+      <p>
+        <b>Tech:</b> HTML, CSS, JS, React (optional)<br>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3" />
+        <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 

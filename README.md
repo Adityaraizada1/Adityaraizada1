@@ -37,24 +37,6 @@ I build **AI systems that turn complex data into actionable insights**, with a f
 
 ---
 
-## 🛠️ Tech Universe
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,sql,pytorch,tensorflow,scikit-learn,pandas,numpy,opencv,docker,kubernetes,aws,gcp,git,linux,flask,fastapi,html,css,js" />
-</p>
-
-**Languages & Frameworks:** Python, C++, SQL, HTML, CSS, JS  
-**ML & AI:** PyTorch, TensorFlow, Scikit-Learn, OpenCV  
-**Data & Visualization:** Pandas, Numpy, Matplotlib, Seaborn  
-**Cloud & Deployment:** Docker, Kubernetes, AWS, GCP, Flask, FastAPI  
-**Version Control & OS:** Git, Linux  
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/images/devider.gif" width="80%" alt="Divider"/>
-</p>
-
----
-
 ## 🌟 Projects Spotlight
 
 <table align="center" width="100%" cellspacing="15">

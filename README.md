@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&duration=3000&color=6a11cb&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Aditya+Raizada...;Machine+Learning+Engineer;AI+Enthusiast;Enterperuner;Code.+Build.+Laugh.+Repeat!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=32&duration=3000&color=6a11cb&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Aditya+Raizada...;Data+Science+Student;Working+with+a+Startup;Learning+Machine+Learning+%26+AI;Code.+Learn.+Grow!" />
 </p>
 
 <p align="center">
@@ -25,77 +25,30 @@
 
 ## 👋 About Me
 
-Hello! I'm **Aditya Raizada**, a Machine Learning Engineer from India.  
-I build **AI systems that turn complex data into actionable insights**, with a focus on **fairness, scalability, and automation**.
+Hello! I'm **Aditya Raizada**, a **Data Science student** who enjoys learning how data can be used to solve real-world problems.
 
-- 🔭 **Currently Building:** AI Security, Logistics AI, Salary Prediction AI  
-- 🌱 **Learning:** Advanced LLMs, MLOps pipelines, Generative AI  
-- 💡 **Vision:** Bridging real-world challenges with AI solutions  
-- 🤝 **Collaboration:** Open to innovative projects & open-source contributions  
+I’m currently **working with a startup**, where I get hands-on experience with data, models, and real business challenges.
 
-> 😆 **AI Joke:** Why did the AI break up with its dataset? Because it had too many outliers!  
+- 📚 **Studying:** Data Science, Statistics, Python, Machine Learning  
+- 🚀 **Currently:** Working with a startup on data-driven tasks  
+- 🌱 **Learning:** Data Analysis, ML Algorithms, Basic AI  
+- 🤝 **Open to:** Internships, learning opportunities & collaborations  
 
----
-
-## 🌟 Projects Spotlight
-
-<table align="center" width="100%" cellspacing="15">
-  <tr>
-    <td width="25%" valign="top" align="center" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
-      <h3>1️⃣ The Guardian's (AI Security)</h3>
-      <p>AI-powered surveillance system for <b>real-time threat detection</b>.<br>Impact: Improved security decision-making by 40%.</p>
-      <p>
-        <b>Tech:</b> Python, PyTorch, OpenCV, Flask<br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv" />
-      </p>
-    </td>
-    <td width="25%" valign="top" align="center" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
-      <h3>2️⃣ The GoodRide's (Logistics AI)</h3>
-      <p>Predictive analytics for <b>optimizing delivery routes & minimizing delays</b>.<br>Impact: Reduced delivery times by 25%.</p>
-      <p>
-        <b>Tech:</b> TensorFlow, GCP, Docker<br>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" />
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
-      </p>
-    </td>
-    <td width="25%" valign="top" align="center" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
-      <h3>3️⃣ Salary Prediction Model (HR AI)</h3>
-      <p>Predicts <b>fair salaries</b> for candidates based on experience, skills & education.<br>Impact: Fair salary recommendations across departments.</p>
-      <p>
-        <b>Tech:</b> Python, Scikit-Learn, SHAP, Matplotlib<br>
-        <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn" />
-        <img src="https://img.shields.io/badge/SHAP-ff69b4?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib" />
-      </p>
-    </td>
-    <td width="25%" valign="top" align="center" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
-      <h3>4️⃣ Personal Website & Portfolio</h3>
-      <p>Fully interactive portfolio with animated headers, project cards & skill sections.<br>Impact: Polished professional online presence.</p>
-      <p>
-        <b>Tech:</b> HTML, CSS, JS, React (optional)<br>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3" />
-        <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript" />
-      </p>
-    </td>
-  </tr>
-</table>
+> 😄 **Fun Line:** Turning coffee into code and data into insights!
 
 ---
 
-## 💡 Fun Facts & Personality
+## 💡 Fun Facts
 
-- 🏃‍♂️ I run ML experiments till 3 AM  
-- 🎮 Gamer when debugging fails  
-- ☕ Fuel: Coffee + Infinite Loops  
-- 🤯 Favorite Quote: *"Code hard. Build smart. Laugh often."*  
+- 📊 I enjoy exploring datasets  
+- 🧠 Learning something new every day  
+- ☕ Coffee + coding sessions = productivity  
+- 🎯 Goal: Become a skilled Data Scientist  
 
 ---
 
-## 🖌️ Designing the Future 
+## 🚀 Keep Learning
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff416c,ff4b2b&height=210&section=header&text=Code.%20Build.%20Laugh.%20Repeat.&fontSize=50&animation=twinkling&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6a11cb,2575fc&height=210&section=header&text=Learn.%20Practice.%20Improve.&fontSize=45&animation=twinkling&fontColor=ffffff"/>
 </p>
